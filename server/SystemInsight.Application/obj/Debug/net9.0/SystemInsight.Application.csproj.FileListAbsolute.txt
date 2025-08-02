@@ -1,0 +1,12 @@
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.AssemblyInfoInputs.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.AssemblyInfo.cs
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.csproj.CoreCompileInputs.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\bin\Debug\net9.0\SystemInsight.Application.deps.json
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\bin\Debug\net9.0\SystemInsight.Application.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\bin\Debug\net9.0\SystemInsight.Application.pdb
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.csproj.AssemblyReference.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\refint\SystemInsight.Application.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\SystemInsight.Application.pdb
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Application\obj\Debug\net9.0\ref\SystemInsight.Application.dll

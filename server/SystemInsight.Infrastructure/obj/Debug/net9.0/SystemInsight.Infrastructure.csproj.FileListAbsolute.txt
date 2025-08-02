@@ -1,0 +1,15 @@
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.AssemblyInfo.cs
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\bin\Debug\net9.0\SystemInsight.Infrastructure.deps.json
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\bin\Debug\net9.0\SystemInsight.Infrastructure.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\bin\Debug\net9.0\SystemInsight.Infrastructure.pdb
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\bin\Debug\net9.0\SystemInsight.Domain.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\bin\Debug\net9.0\SystemInsight.Domain.pdb
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemIn.E370B780.Up2Date
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\refint\SystemInsight.Infrastructure.dll
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\SystemInsight.Infrastructure.pdb
+D:\Learning\sample projects\SystemInsight\server\SystemInsight.Infrastructure\obj\Debug\net9.0\ref\SystemInsight.Infrastructure.dll
