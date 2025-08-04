@@ -10,6 +10,7 @@ public static class InfrastructureServiceRegistration
     {
         services.AddSingleton<ISystemInfoService, SystemInfoService>();
         services.AddSingleton<ICpuInfoService, CpuInfoService>();
+        services.AddSingleton<IMemoryInfoService, MemoryInfoService>();
         return services;
     }
 }
