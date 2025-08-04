@@ -16,5 +16,6 @@ app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 app.MapSystemInfoEndpoints();
+app.MapCpuEndpoints();
 
 app.Run();

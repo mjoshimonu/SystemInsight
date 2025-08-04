@@ -1,5 +1,4 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using SystemInsight.Domain.Interfaces;
 
 namespace SystemInsight.API.Endpoints
@@ -8,11 +7,13 @@ namespace SystemInsight.API.Endpoints
     {
         public static void MapSystemInfoEndpoints(this WebApplication app)
         {
-            app.MapGet("/api/systeminfo", async (ISystemInfoService service) =>
+            app.MapGet("/system/info", async ([FromServices] ISystemInfoService service) =>
             {
                 var info = await service.GetSystemInfoAsync();
                 return Results.Ok(info);
-            });
+            })
+            .WithName("GetSystemInfo")
+            .WithTags("System Info");
         }
     }
 }
