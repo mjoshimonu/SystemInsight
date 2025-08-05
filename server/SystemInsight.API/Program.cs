@@ -10,28 +10,11 @@ builder.Services.AddOpenApiDocument();
 
 var app = builder.Build();
 
-
+app.UseRouting();
 app.UseHttpsRedirection();
+app.UseOpenApi();
 app.RegisterAllEndpoints();
 
-app.MapGet("/docs", async context =>
-{
-    const string redocHtml = """
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <title>System Insight API Docs</title>
-        <script src="https://cdn.redoc.ly/redoc/latest/bundles/redoc.standalone.js"></script>
-      </head>
-      <body>
-       <redoc spec-url='/swagger/swagger.json'></redoc>
-      </body>
-    </html>
-    """;
+app.UseSwaggerUi(); 
 
-    context.Response.ContentType = "text/html";
-    await context.Response.WriteAsync(redocHtml);
-});
-
-app.UseOpenApi(); 
 app.Run();
